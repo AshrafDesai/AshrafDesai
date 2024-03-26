@@ -1,6 +1,4 @@
-
-![image](https://github.com/AshrafDesai/Pro/assets/132386307/0eb8de7e-0d1d-4a49-81db-22aa4fc6b240)
-
+![back](https://github.com/AshrafDesai/AshrafDesai/assets/132386307/4410c77c-a086-4980-8306-a2ab5f2734b1)
 
 <h1 align="center">Hi 👋, I'm Asharafraza Desai</h1>
 <h3 align="center">A passionate software engineer and cybersecurity enthusiast, dedicated to crafting secure and innovative solutions.</h3>
