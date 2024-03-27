@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Asharafraza Desai</h1>
 <h3 align="center">A passionate software engineer and cybersecurity enthusiast, dedicated to crafting secure and innovative solutions.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafdesai&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafdesai" /> </p>
 
