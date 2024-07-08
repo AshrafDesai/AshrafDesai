@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ashraf.vercel.app/](https://portfolio-ashraf.vercel.app/)
+
 
 - 📫 How to reach me **asharafrazadesai2002@gmail.com**
 
