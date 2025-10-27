@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafdesai&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafdesai" /> </p>
 
-- 🔭 I’m currently working on [STechSolnStore](https://github.com/AshrafDesai/STechSolnStore.com.git)
+- 🔭 I’m currently working on [DeepEyeCode](https://github.com/AshrafDesai/DeepEyeCode)
 
-- 🌱 I’m currently learning **Ethical Hacking**
+- 🌱 I’m currently learning **CEH(Certified Ethical Hacker)**
 
 
 
